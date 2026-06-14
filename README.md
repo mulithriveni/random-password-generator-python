@@ -1,5 +1,3 @@
-# random-password-generator-python
-Random Password Generator using Python
 # Random Password Generator
 
 ## Description
@@ -21,6 +19,11 @@ A Python application that generates strong and secure passwords using letters, n
    python password_generator.py
 
 ## Sample Output
-Enter password length: 12
-Generated Password: A#7kP!2mX@9q
 
+Enter password length: 8
+
+Generated Password: ;4CsR5c)
+
+## Output Screenshot
+
+Add your screenshot here.
